@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:mkl:linux-x86:2022.0-1.5.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/repository/org/bytedeco/mkl/2022.0-1.5.7/mkl-2022.0-1.5.7-linux-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../maven/repository/org/bytedeco/mkl/2022.0-1.5.7/mkl-2022.0-1.5.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../maven/repository/org/bytedeco/mkl/2022.0-1.5.7/mkl-2022.0-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
